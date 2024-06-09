@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 version3
+=======
+version3
+>>>>>>> 68f5699becceb53c3de3d2a2ab6dbd0a755e35a1
 version4
